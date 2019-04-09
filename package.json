@@ -1,0 +1,10 @@
+{
+  "name": "picokv",
+  "version": "0.0.1",
+  "main": "picokv.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
